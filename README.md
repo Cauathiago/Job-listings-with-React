@@ -30,10 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: [Deploy](https://cauathiago.github.iodesafios-front-end/pleno/03
-/job-listings-with-filtering/)
-
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/job-listings-with-reactjs-solution-H2cv728unO)
+- Live Site URL: [Deploy](https://job-listing-with-react.netlify.app/)
 ## My process
 
 ### Built with
